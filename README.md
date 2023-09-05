@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HemalathaGatta
 - 👀 I’m interested in UI Developer
-- 🌱 I’m learning and post the React JS asiigninments
+- 🌱 I’m learning and posting the React JS assignnments
 - 💞️ I’m looking to collaborate on Javascript Library things
 - 📫 How to reach me through linked in https://www.linkedin.com/in/gatta-hemalatha-1b9477213/
 
